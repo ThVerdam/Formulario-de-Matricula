@@ -22,7 +22,6 @@
     color: #a8a29e;
   }
 
-  transition: 0.1s;
   &:hover,
   &:has(input:focus) {
     border-width: 2px;
